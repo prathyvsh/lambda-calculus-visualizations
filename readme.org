@@ -1,0 +1,29 @@
+* Lambda Calculus Visualizations
+ 
+** [[http://dkeenan.com/Lambda/][To Dissect a Mocking Bird]]
+David Keenan
+
+** [[http://users.encs.concordia.ca/~haarslev/vl95www/html-papers/citrin/citrin.html][Programming with Visual Expressions]]
+
+** [[https://tromp.github.io/cl/diagrams.html][Lambda Diagrams]]
+
+** [[http://bntr.planet.ee/lambda/work/visual_lambda.pdf][Visual Lambda]]
+
+
+*** Interactive: https://bitbucket.org/bntr/visual-lambda/wiki/Home
+
+** [[https://arxiv.org/abs/1305.5786][Graphic Lambda Calculus]]
+M. Buliga
+
+** [[Alligator Eggs]]
+Bret Victor
+
+*** Alligator Eggs Interactive: http://metatoys.org/alligator/
+
+** [[http://david-peter.de/cube-composer/][Cube Composer]]
+
+** [[https://csvoss.com//circuit-notation-lambda-calculus][Lambda Circuitry]]
+
+** [[https://ieeexplore.ieee.org/document/4740985][Using Typed Mind Maps]]
+
+** [[https://archive.is/bZEqn][Lambda Animator]]
