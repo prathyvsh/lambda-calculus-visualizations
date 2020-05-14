@@ -3,29 +3,58 @@
 ** [[http://dkeenan.com/Lambda/][To Dissect a Mocking Bird]]
 David Keenan
 
-** [[http://users.encs.concordia.ca/~haarslev/vl95www/html-papers/citrin/citrin.html][Programming with Visual Expressions]]
+[[./dissect-mocking-bird.gif]]
+
+** [[http://users.encs.concordia.ca/~haarslev/vl95www/html-papers/citrin/citrin.html][Visual Expressions]]
+Wayne Citrin, Richard Hall, Benjamin Zorn
+
+[[./vex.gif]]
 
 ** [[https://tromp.github.io/cl/diagrams.html][Lambda Diagrams]]
+John Tromp
+
+[[./tromp.gif]]
 
 ** [[http://bntr.planet.ee/lambda/work/visual_lambda.pdf][Visual Lambda]]
+Viktor Massalõgin, (May 2008)
 
+[[./visual-lambda.png]]
 
-*** Interactive: https://bitbucket.org/bntr/visual-lambda/wiki/Home
+Interactive Version: https://bitbucket.org/bntr/visual-lambda/wiki/Home
 
 ** [[https://arxiv.org/abs/1305.5786][Graphic Lambda Calculus]]
-M. Buliga
+Marius Buliga
 
-** [[Alligator Eggs]]
+[[./graphic-lambda.png]]
+
+** [[http://worrydream.com/AlligatorEggs/][Alligator Eggs]]
 Bret Victor
 
-*** Alligator Eggs Interactive: http://metatoys.org/alligator/
+[[./alligator-eggs.png]]
+
+Alligator Eggs Interactive: http://metatoys.org/alligator/
 
 ** [[http://david-peter.de/cube-composer/][Cube Composer]]
+David Peter
 
-** [[https://csvoss.com//circuit-notation-lambda-calculus][Lambda Circuitry]]
+[[./cube-composer.png]]
+
+** [[https://csvoss.com/circuit-notation-lambda-calculus][Lambda Circuitry]]
+Chelsea Voss
+
+[[./lambda-circuitry.png]]
 
 ** [[https://ieeexplore.ieee.org/document/4740985][Using Typed Mind Maps]]
+Li-Ren Chien and Daniel Buehre
+ 
+[[./typed-mind-maps.png]]
 
 ** [[https://archive.is/bZEqn][Lambda Animator]]
+Mike Thyer
+
+[[./lambda-animator.png]]
 
 ** [[http://ima.udg.edu/~villaret/tilc/tilc.pdf][Interactive Lambda Calculus Tracer]]
+David Ruiz and Mateu Villaret
+
+[[./tilc.png]]
