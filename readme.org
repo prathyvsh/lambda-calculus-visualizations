@@ -28,4 +28,4 @@ Bret Victor
 
 ** [[https://archive.is/bZEqn][Lambda Animator]]
 
-** [[http://ima.udg.edu/~villaret/tilc/tilc.pdf][TILC]]
+** [[http://ima.udg.edu/~villaret/tilc/tilc.pdf][Interactive Lambda Calculus Tracer]]
