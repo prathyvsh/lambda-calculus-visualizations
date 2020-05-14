@@ -1,4 +1,6 @@
 * Lambda Calculus Visualizations
+
+This is a catalog of visualizations of Lambda Calculus that I found during [[https://twitter.com/prathyvsh/status/1188787773441888257][my research]]. If you know of other cool Lambda Calculus visualizations, please consider raising an issue/PR.
  
 ** [[http://dkeenan.com/Lambda/][To Dissect a Mocking Bird]]
 David Keenan
