@@ -56,6 +56,11 @@ Mike Thyer
 
 [[./img/lambda-animator.png]]
 
+** [[http://lambdacalculator.com/][Lambda Calculator]]
+Dylan Bumford
+
+[[http://lambdacalculator.com/images/visual.png]]
+
 ** [[http://ima.udg.edu/~villaret/tilc/tilc.pdf][Interactive Lambda Calculus Tracer]]
 David Ruiz and Mateu Villaret
 
