@@ -83,3 +83,7 @@ John Lamping
 [[./img/l2d.png]]
 
 [[https://l-2d.glitch.me][Demo]]
+
+** [[http://apm.bplaced.net/w/index.php?title=Annotated_lambda_diagram][Annotated Lambda Diagrams]]
+
+[[./img/annotated-lambda.png]]
