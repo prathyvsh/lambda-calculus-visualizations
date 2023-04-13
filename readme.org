@@ -27,8 +27,9 @@ Interactive Version: https://bitbucket.org/bntr/visual-lambda/wiki/Home
 ** [[https://mbuliga.github.io/quinegraphs/lambda2mol.html#lambdanote][Chemlambda]]
 Marius Buliga
 
-[[https://arxiv.org/abs/1305.5786][Research paper]]
 [[./img/chemlambda-anim.gif]]
+
+[[https://arxiv.org/abs/1305.5786][Research paper]]
 
 ** [[http://worrydream.com/AlligatorEggs/][Alligator Eggs]]
 Bret Victor
@@ -73,18 +74,22 @@ John Lamping
 [[./img/lamping.png]]
 
 ** [[https://github.com/lunarcast/lunarflow][Lunarflow]]
+Adriel
 
 [[./img/lunarflow.jpg]]
 
 ** [[https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.699.9918&rep=rep1&type=pdf][Anagopos]]
 [[./img/anagopos.png]]
+Niels Bjørn Grathwohl, Jeroen Ketema, Jens Delund Pallesen, Jakob Grue Simonsen
 
 ** [[https://www.media.mit.edu/projects/2d-an-exploration-of-drawing-as-programming-language-featuring-ideas-from-lambda-calculus/overview/][λ-2D]]
+Lingdong Huang
 
 [[./img/l2d.png]]
 
 [[https://l-2d.glitch.me][Demo]]
 
 ** [[http://apm.bplaced.net/w/index.php?title=Annotated_lambda_diagram][Annotated Lambda Diagrams]]
+Lukas Süss
 
 [[./img/annotated-lambda.png]]
