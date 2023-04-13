@@ -74,3 +74,10 @@ John Lamping
 ** [[https://github.com/lunarcast/lunarflow][Lunarflow]]
 
 [[./img/lunarflow.jpg]]
+
+** [[https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.699.9918&rep=rep1&type=pdf][Anagopos]]
+[[./img/anagopos.png]]
+
+** [[https://www.media.mit.edu/projects/2d-an-exploration-of-drawing-as-programming-language-featuring-ideas-from-lambda-calculus/overview/][λ-2D]]
+
+[[https://l-2d.glitch.me][Demo]]
