@@ -28,7 +28,7 @@ Interactive Version: https://bitbucket.org/bntr/visual-lambda/wiki/Home
 Marius Buliga
 
 [[https://arxiv.org/abs/1305.5786][Research paper]]
-[[./img/chemlambda.gif]]
+[[./img/chemlambda-anim.gif]]
 
 ** [[http://worrydream.com/AlligatorEggs/][Alligator Eggs]]
 Bret Victor
