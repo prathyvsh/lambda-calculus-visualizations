@@ -22,7 +22,7 @@ Viktor Massalõgin, (May 2008)
 
 [[./img/visual-lambda.png]]
 
-Interactive Version: https://bitbucket.org/bntr/visual-lambda/wiki/Home
+Interactive Version: https://github.com/bntre/visual-lambda
 
 ** [[https://mbuliga.github.io/quinegraphs/lambda2mol.html#lambdanote][Chemlambda]]
 Marius Buliga
