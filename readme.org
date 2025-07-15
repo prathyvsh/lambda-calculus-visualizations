@@ -93,3 +93,10 @@ Lingdong Huang
 Lukas Süss
 
 [[./img/annotated-lambda.png]]
+
+* Other Lists
+
+** Lambda Calculus Devkit
+
+[[https://github.com/woodrush/lambda-calculus-devkit]]
+Collection of of tools for writing programs in lambda calculus and SKI combinator calculus, written by various authors.
